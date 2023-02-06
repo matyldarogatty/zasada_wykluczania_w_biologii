@@ -1,14 +1,14 @@
 # zasada_wykluczania_w_biologii
 
 Model dwóch populacji, które konkurują o zasoby środowiska przedstawia układ równań:
-$\left\{\begin{array}{rcl} N_1'(t) = a_1 N_1(t) \left( 1  -  \frac{N_1(t) + \alpha N_2(t)}{K_1}\right) \\
-N_2'(t) = a_2 N_2(t) \left( 1 - \frac{N_2(t) + \beta N_1(t)}{K_2}\right) \end{array} \right, $
+$ N_1'(t) = a_1 N_1(t) \left( 1  -  \frac{N_1(t) + \alpha N_2(t)}{K_1}\right) \\
+N_2'(t) = a_2 N_2(t) \left( 1 - \frac{N_2(t) + \beta N_1(t)}{K_2}\right) , $
 gdzie 
-{\large $N_1$(t), $N_2$(t)}: rozmiary populacji $\mathcal{P}_1$ i $\mathcal{P}_2$ w czasie t.
-{\large K}: ograniczona liczba jedzenia i objętość środowiska (maximum populacji, jaka jest w stanie żyć)\\ 
-{\large $a$}: współczynnik rozrodczości populacji \\
-{\large $\alpha $}: stopień, z jakim druga populacja wpływa na pierwszą \\
-{\large $\beta $}: stopień, z jakim pierwsza populacja wpływa na drugą.
+$N_1$(t), $N_2$(t): rozmiary populacji $\mathcal{P}_1$ i $\mathcal{P}_2$ w czasie t.
+$K$: ograniczona liczba jedzenia i objętość środowiska (maximum populacji, jaka jest w stanie żyć)\\ 
+$a$}: współczynnik rozrodczości populacji \\
+$\alpha $: stopień, z jakim druga populacja wpływa na pierwszą \\
+$\beta $: stopień, z jakim pierwsza populacja wpływa na drugą.
 
 #### Symualcje:
 ##### 1. Przyjmijmy $a_1=0.8=a_2$.
