@@ -13,7 +13,7 @@ gdzie
 {\large $\beta $}: stopień, z jakim pierwsza populacja wpływa na drugą.
 
 #### Symualcje:
-#####1. $a_1=0.8=a_2$:
+##### 1. $a_1=0.8=a_2$:
 $\alpha = 1.2, \beta=0.5$ Pomimo, żena początku niebieskia populacja była liczniejsza, przez duży wpływ zielonej populacji na niebieską, niebieska wymarła.
 ![b1 2na0 5](https://user-images.githubusercontent.com/92950276/217053971-d583b2e8-2139-4526-8eef-c372ab2a19bd.png)
 
@@ -21,5 +21,5 @@ $\alpha = 1.2, \beta=0.5$ Pomimo, żena początku niebieskia populacja była lic
 Dla $\alpha,\beta < 1$ występuje symbioza.
 ![b0na0](https://user-images.githubusercontent.com/92950276/217054041-465f7996-74b8-417f-a83f-dedd33d50d64.png)
 
-#####2. Dla dużych $a_1$ i $a_2$ można zaobserwować chaos deterministyczny.
+##### 2. Dla dużych $a_1$ i $a_2$ można zaobserwować chaos deterministyczny.
 ![a2na0 7b2na2](https://user-images.githubusercontent.com/92950276/217052238-e5eda271-954a-4867-a008-8241ecc85529.png) ![a0 7na2b2na2chaos](https://user-images.githubusercontent.com/92950276/217052360-1787893f-4b56-4c87-a780-585fa690b244.png)
